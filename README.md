@@ -80,9 +80,9 @@ I care more about a verified result than a polished claim. If something only wor
 ### Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UcelX/UcelX/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UcelX/UcelX/output/github-contribution-grid-snake.svg" />
-  <img alt="UcelX contribution activity" src="https://raw.githubusercontent.com/UcelX/UcelX/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UcelX/UcelX/gh-pages/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UcelX/UcelX/gh-pages/github-contribution-grid-snake.svg" />
+  <img alt="UcelX contribution activity" src="https://raw.githubusercontent.com/UcelX/UcelX/gh-pages/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
