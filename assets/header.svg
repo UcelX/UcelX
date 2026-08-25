@@ -1,0 +1,30 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ucel X developer profile</title>
+  <desc id="desc">Animated editorial banner for AI agents, Web3 automation, and self-hosted tools.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e06f51"/>
+      <stop offset="0.55" stop-color="#d99a3e"/>
+      <stop offset="1" stop-color="#f1d49a"/>
+    </linearGradient>
+    <clipPath id="tagline-clip"><rect x="74" y="174" width="0" height="44"><animate attributeName="width" values="0;930;930;0" keyTimes="0;0.45;0.88;1" dur="8s" repeatCount="indefinite"/></rect></clipPath>
+    <filter id="soft"><feGaussianBlur stdDeviation="14"/></filter>
+  </defs>
+  <rect width="1200" height="320" rx="22" fill="#111315"/>
+  <circle cx="1040" cy="74" r="102" fill="#e06f51" opacity="0.08" filter="url(#soft)"><animate attributeName="opacity" values="0.05;0.13;0.05" dur="5s" repeatCount="indefinite"/></circle>
+  <path d="M74 64H1126" stroke="#2b2e31"/>
+  <path d="M74 258H1126" stroke="#2b2e31"/>
+  <rect x="74" y="64" width="172" height="4" rx="2" fill="url(#line)"><animate attributeName="width" values="72;260;172" dur="5s" repeatCount="indefinite"/></rect>
+  <text x="74" y="130" fill="#f7f2ea" font-size="67" font-family="Georgia,serif" font-weight="700" letter-spacing="2">UCEL X</text>
+  <text x="78" y="158" fill="#e06f51" font-size="15" font-family="Arial,sans-serif" font-weight="700" letter-spacing="5">BUILDING IN PUBLIC</text>
+  <g clip-path="url(#tagline-clip)">
+    <text x="74" y="207" fill="#d9d5ce" font-size="29" font-family="Arial,sans-serif">AI agents · Web3 automation · self-hosted tools</text>
+  </g>
+  <rect x="74" y="219" width="3" height="30" fill="#e06f51"><animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/><animate attributeName="x" values="74;728;728;74" keyTimes="0;0.45;0.88;1" dur="8s" repeatCount="indefinite"/></rect>
+  <g transform="translate(951 201)">
+    <circle cx="0" cy="0" r="4" fill="#e06f51"><animate attributeName="r" values="3;7;3" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="28" cy="0" r="4" fill="#d99a3e"><animate attributeName="r" values="3;7;3" dur="2.4s" begin="0.3s" repeatCount="indefinite"/></circle>
+    <circle cx="56" cy="0" r="4" fill="#f1d49a"><animate attributeName="r" values="3;7;3" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></circle>
+  </g>
+  <text x="74" y="287" fill="#777d82" font-size="14" font-family="monospace" letter-spacing="2">SHIP REAL SYSTEMS  /  VERIFY THE RESULT</text>
+</svg>
